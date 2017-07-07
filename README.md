@@ -6,4 +6,5 @@ Member :
 Lecture : Ramot Lubis
 Class : LA03
 
+Short Product Description : An application that can turn on a flashlight on a smartphone
 This application working on Android
